@@ -57,4 +57,4 @@ Percentage: 85.71%
 
 ## Author
 
-Naitik Mishra, 1st semester, VIT Bhopal
+Utkarsh , 1st semester, VIT Bhopal
